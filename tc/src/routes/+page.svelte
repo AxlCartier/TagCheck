@@ -47,8 +47,6 @@ show_more_link={"https://github.com/AxlCartier"}/>
 <!--Card Carousel/Section-->
 
 
-<NavBar/>
-
 
 
 
@@ -59,7 +57,6 @@ show_more_link={"https://github.com/AxlCartier"}/>
     import HeroSection from '../components/HeroSection.svelte';
     import CardCarousel from '../components/CardCarousel.svelte';
     import Comparator from '../components/Comparator.svelte';
-    import NavBar from '../components/NavBar.svelte';
 </script>
 
 
